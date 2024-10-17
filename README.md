@@ -2,4 +2,5 @@
 
 ## To-Do
 
-- [] QuestComponent
+- [X] QuestComponent
+- [X] Clean up for distribution
