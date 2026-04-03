@@ -2,6 +2,10 @@
 
 This page should get you up and running and creating a linear story-line in 5m!
 
+Video Quickstart
+
+[![Watch the video](https://img.youtube.com/vi/cEwAw9gs6Vs/0.jpg)](https://youtu.be/cEwAw9gs6Vs)
+
 ## Add Actor Component
 
 Once the asset pack is added to your existing project, go to your character pawn and add the *AC_PlayerQuestManager*.
